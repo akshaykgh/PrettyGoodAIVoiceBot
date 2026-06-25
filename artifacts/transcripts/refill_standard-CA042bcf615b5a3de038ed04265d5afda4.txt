@@ -1,0 +1,51 @@
+Scenario: refill_standard
+Call: refill_standard-CA042bcf615b5a3de038ed04265d5afda4
+
+Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+Agent: Thanks for calling PivotPoint Orthopedics, part of Pretty Good AI. Am I speaking with Akshay Kumar Ghanadhar?
+
+Patient: No, this is Akshaykumar Gangadhar Hanmandla.
+
+Agent: Please provide your date of birth.
+
+Patient: December 19, 1997.
+
+Agent: Could you please spell your full name for me, just to make sure I have it right? I have your date of birth as December 19th, 1997. Is that correct?
+
+Patient: Sure, let me spell it out for you clearly.
+
+Patient: Yes, that date of birth is correct. My full name is spelled A K S H A Y K U M A R G A N G A D H A R H A N M A N D L A.
+
+Agent: Thank you. To confirm, your full name is Akshay Kumar Gyanendra Henandla, and your date of birth is December 19th, 1997. Is that correct?
+
+Patient: No, this is Akshaykumar Gangadhar Hanmandla. And yes, my date of birth is December 19, 1997. I’m calling to request a refill for Lisinopril 10 milligrams.
+
+Agent: How many days of lisinopril 10 milligrams do you have left?
+
+Agent: If you are already out, just let me know.
+
+Patient: I have two days left.
+
+Agent: I have your number as 607-343-852. Is that correct for a callback?
+
+Patient: I can’t confirm that number, it doesn’t sound right. I don’t want to give you incorrect contact information.
+
+Agent: No problem. Could you please provide the best phone number for a callback?
+
+Patient: I don’t have a contact number I can safely provide right now. Please use the number you already have on file for me.
+
+Agent: Could you please tell me the name of the pharmacy you want to use for your medication? If you know the address, city, or any details like cross streets or nearby stores, that would help too. If you have a phone or fax number, please share that as well.
+
+Patient: CVS on State Street. I don’t have the address or fax details handy.
+
+Agent: No problem. Can you tell me which city and state the CVS on State Street is located in? That will help me make sure I have the right pharmacy.
+
+Patient: I’m not sure of the city or state. Please check the CVS listed in my chart or the one you’ve used for my previous refills.
+
+Agent: I'm unable to complete your refill request for Lisinopril right now. I'll connect you to our patient support team so they can help you finish the process. Please stay on the line. Connecting you to a representative. Please wait.
+
+Agent: Hello, you've reached the Pretty Good AI test line. Goodbye.
+
+Patient: Okay, thanks for trying to connect me earlier. I’ll follow up with the office to finish the refill request.
+

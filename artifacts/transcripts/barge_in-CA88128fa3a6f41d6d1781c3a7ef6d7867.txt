@@ -1,0 +1,45 @@
+Scenario: barge_in
+Call: barge_in-CA88128fa3a6f41d6d1781c3a7ef6d7867
+
+Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+Agent: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Akshay Kumar Dandadar?
+
+Patient: No, this is Akshaykumar Gangadhar Hanmandla.
+
+Agent: Thanks for letting me know. Are you calling for yourself or on behalf of someone else today?
+
+Patient: I’m calling for myself.
+
+Agent: Please provide your date of birth.
+
+Patient: Okay, let me give that to you clearly.
+
+Patient: December 19, 1997.
+
+Agent: I have your name as Akshay Kumar Gangadhar Honmandla. How can I help you today?
+
+Patient: I need a refill for Metformin 500 milligrams and to set up an appointment for Thursday. Could you repeat those details back to me?
+
+Agent: You need a refill for metformin 500 milligrams and want to set up an appointment for Thursday. Let's start with your medication refill. How many days of metformin do you have left?
+
+Patient: I have about a week left. Please keep it Metformin 500 milligrams, not metoprolol. And after this, can you repeat everything back again?
+
+Agent: Understood. Metformin 500 milligrams only.
+
+Agent: What is the best phone number for staff to call you back about this refill? I have your number as 607-
+
+Agent: 343-8852, is that correct?
+
+Patient: Yes, that’s correct. Please repeat my details back, including Metformin 500 milligrams and the Thursday appointment request.
+
+Agent: Could you please provide the name of the pharmacy you want to use for your medication, if you know the address, city, or any details like cross streets or nearby stores?
+
+Agent: That would help too. If you have their phone or fax number, please share that as well.
+
+Patient: Use CVS Pharmacy on East Main Street near the grocery store. I don’t have the phone or fax handy. Please repeat back the pharmacy, Metformin 500 milligrams, and my Thursday request.
+
+Agent: You'd like to use CVS Pharmacy on East Main Street near the grocery store. I do not have the phone or fax number, but I will note the details you provided for the clinic staff. You mentioned metformin 500 milligrams and that you made your request on Thursday. Is there anything else about the pharmacy location you can share, such as the city or zip code? This will help make sure your prescription goes to the right place.
+
+Patient: Small correction: the request is for a Thursday appointment, not that I made it on Thursday. I don’t have the city or zip, but it’s the CVS on East Main near the grocery store. Please repeat back: Metformin 500 milligrams, the CVS details, and the Thursday appointment request.
+

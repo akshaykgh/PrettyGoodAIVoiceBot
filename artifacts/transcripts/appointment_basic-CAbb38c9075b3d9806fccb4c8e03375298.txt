@@ -1,0 +1,49 @@
+Scenario: appointment_basic
+Call: appointment_basic-CAbb38c9075b3d9806fccb4c8e03375298
+
+Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+Agent: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Akshay Kumar Gandhildar?
+
+Patient: No, this is Akshaykumar Gangadhar Hanmandla.
+
+Agent: Please provide your date of birth.
+
+Patient: December 19, 1997.
+
+Agent: Thanks for clarifying, Akshay Kunkar. How can I help you today?
+
+Patient: I’ve had a sore throat and a low fever for two days, and I’d like to schedule a new patient appointment. I’m hoping for the earliest available weekday morning this week.
+
+Agent: Just to confirm, you'd like to schedule a new patient consultation for your sore throat and low fever. Is that correct?
+
+Patient: Yes, that’s right. I’d like the earliest weekday morning available this week if possible.
+
+Agent: It looks like you already have a new patient consultation booked. I can help you reschedule or cancel that appointment.
+
+Agent: Or I can connect you to a team member for further help. What would you like to do?
+
+Patient: Let me think about the best way to handle that and keep this moving for you.
+
+Patient: I’m a bit tired, so I’d like to move it to an earlier weekday morning this week if you have one. What date and time is my current appointment, and what’s the earliest morning you can offer?
+
+Agent: Let me check the date and time of your current appointment and find the earliest available weekday morning slot for you. One moment.
+
+Patient: Okay, thank you.
+
+Patient: Okay. I’ll wait—please let me know the current appointment time and the earliest morning option you find.
+
+Agent: I don't see any open cases for your request, so I'll check the schedule for your current appointment and the earliest available morning slot this week. Let me fetch that information for you.
+
+Agent: I'll get those details for you. One moment while I check your current appointment and the earliest available weekday morning slot.
+
+Patient: Alright. Once you have both times, please tell me which morning slot is earliest this week.
+
+Agent: Understood. I'll compare your current appointment with the earliest available weekday morning slot, and let you know which is sooner. Let me check the schedule now.
+
+Patient: Okay, thanks. I’ll take the earlier morning option if it’s available this week.
+
+Agent: I'll reserve the earliest available weekday morning slot for you if it's sooner than your current appointment. Let me check the schedule and confirm both times.
+
+Patient: Okay. I’ll stick with the earlier morning slot if it’s sooner. Please confirm the time once you have it.
+

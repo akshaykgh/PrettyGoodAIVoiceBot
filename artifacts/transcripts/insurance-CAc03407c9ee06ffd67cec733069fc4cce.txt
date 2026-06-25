@@ -1,0 +1,27 @@
+Scenario: insurance
+Call: insurance-CAc03407c9ee06ffd67cec733069fc4cce
+
+Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+Agent: Thanks for calling Kidder Point Orthopedics, part of PrettyGoodAI. Am I speaking with Akshay Kumar Gengadar?
+
+Patient: No, this is Akshaykumar Gangadhar Hanmandla. I’m calling about a dermatology referral question, and I want to avoid surprise bills. Do you accept UnitedHealthcare Choice Plus, and if you can’t verify eligibility, what should I do? Also, can the copay be confirmed before booking?
+
+Agent: I'll help with your referral question. First, can you please provide your full name and date of birth?
+
+Patient: My full name is Akshaykumar Gangadhar Hanmandla, and my date of birth is December 19, 1997.
+
+Agent: Thanks for clarifying. I'll help with your dermatology referral and insurance question for Akshay Kumar Gangdhar, Hanmandlu. Let me check on UnitedHealthcare Choice Plus and what to do if eligibility can't be verified. To check if UnitedHealthcare Choice Plus is accepted, I'll need your member ID from the insurance card. Can you share that number?
+
+Patient: One moment while I get that number ready.
+
+Patient: I don’t have the member ID in front of me right now. Can you still tell me if you generally accept UnitedHealthcare Choice Plus, and what your process is if eligibility can’t be verified before the visit? Also, can the copay be confirmed before booking so I don’t get a surprise bill?
+
+Agent: We generally accept many UnitedHealthcare plans, but I can't confirm for Choice Plus without your member ID. If eligibility can't be verified before your visit, you may be responsible for charges if the plan isn't accepted or doesn't cover the service. Copays can't always be confirmed before booking since they depend on your specific plan and eligibility. I recommend calling your insurance company directly to confirm your benefits and copay for dermatology visits. Is there anything else I can help with?
+
+Patient: Thanks, that helps. I’ll call the insurance company to confirm benefits and the copay before I book. I don’t have anything else right now. Thanks for your time.
+
+Agent: You're welcome. Have a good day.
+
+Patient: Thanks, you too.
+

@@ -1,0 +1,41 @@
+Scenario: reschedule
+Call: reschedule-CA58c35223390a28a846b27ac621c78568
+
+Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+Agent: Thanks for calling Pivot Point Orthopedics, part of PrettyGoodAI. Am I speaking with H.J. Kumar Gengidigar?
+
+Patient: No, this is Akshaykumar Gangadhar Hanmandla. I’m calling to reschedule my Wednesday 2 PM appointment to Friday after 3 PM because of a work conflict.
+
+Agent: Please provide your date of birth.
+
+Patient: December 19, 1997.
+
+Agent: Thanks for confirming Akshay Kumar. How payable be today?
+
+Patient: No, this is Akshaykumar Gangadhar Hanmandla. I need to move my Wednesday 2 PM appointment to Friday after 3 PM due to a work conflict.
+
+Agent: I see you have two upcoming appointments, both on Tuesday, June 30th.
+
+Agent: one at 9 a.m. with Dr. Zygmunt Lukowski and another at 12:45 p.m. for a new patient visit with Dr. Judy Hauser. Can you confirm which appointment you want to move to Friday after 3 p.m.?
+
+Patient: Got it, let me sort out which visit matches what you described.
+
+Patient: I’m only trying to move my Wednesday 2 PM appointment. I don’t see that in what you read, so could you check again for the Wednesday 2 PM visit and move that one to Friday after 3 PM?
+
+Agent: I checked your upcoming appointments, and I only see two scheduled, both on Tuesday, June 30th, one at 9 a.m. and one at 12:45 p.m. There isn't a Wednesday 2 p.m. appointment listed. Is it possible the appointment was scheduled under a different name, or could it be at another clinic location?
+
+Patient: It should be under my full name, Akshaykumar Gangadhar Hanmandla, with the same date of birth. Could you double-check for a Wednesday 2 PM at any Pivot Point Orthopedics location? If it still doesn’t show up, please help me set a Friday after 3 PM visit instead.
+
+Agent: I do not see a Wednesday 2 p.m. appointment under your name and date of birth at Pivot Point Orthopedics. Would you like to book a new appointment for Friday after 3 p.m. instead? If so, I can help you schedule that now.
+
+Patient: Yes, please schedule a Friday appointment after 3 PM, the earliest available. Once it’s booked, could you confirm the time and which provider it’s with?
+
+Agent: Before I schedule, can you tell me the reason for your visit? For example, is this for a routine office visit, a follow-up, a new patient consultation, or something else?
+
+Patient: It’s a follow-up visit, related to my existing orthopedic care.
+
+Agent: The earliest available follow-up appointment on Friday after 3 p.m. is at 3 p.m. with Dr. Dugy Hauser at Pivot Point Orthopedics. Would you like to book the 3 p.m. slot or would you prefer the 4 p.m. option?
+
+Patient: I’ll take the 3 PM slot with Dr. Hauser. Could you confirm it’s booked for this Friday at 3 PM?
+

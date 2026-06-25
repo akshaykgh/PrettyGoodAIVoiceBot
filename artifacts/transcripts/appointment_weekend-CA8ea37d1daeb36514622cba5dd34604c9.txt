@@ -1,0 +1,45 @@
+Scenario: appointment_weekend
+Call: appointment_weekend-CA8ea37d1daeb36514622cba5dd34604c9
+
+Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+Agent: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Akshay Kumar Gangadhar?
+
+Patient: No, this is Akshaykumar Gangadhar Hanmandla.
+
+Agent: Please provide your date of birth.
+
+Patient: December 19, 1997.
+
+Agent: Thanks for clarifying.
+
+Agent: How can I help you today?
+
+Patient: I’d like to schedule an annual physical. I’m hoping for Sunday at 10 AM if that’s available.
+
+Agent: Just to confirm, you'd like to book a general office visit for a routine annual physical with Sundar, is that correct?
+
+Patient: Yes, that’s correct, a routine annual physical.
+
+Agent: There are no openings with Sundar for a routine annual physical through next Wednesday. Would you like to try a later date, or are you open to seeing another provider?
+
+Patient: Got it, let me think through the scheduling options with you for a moment.
+
+Patient: I prefer weekends—do you have any Sunday availability with any provider? If Sundays aren’t available, Monday or Tuesday morning works for me.
+
+Agent: There are no Sunday openings, but I do see Monday and Tuesday morning options. Would you like to hear about available times on Monday, Tuesday, or both?
+
+Patient: Yes, please share the Monday morning times.
+
+Agent: On Monday, June 29th, the earliest available times are 3 p.m. and 3:30 p.m. with Dr. Zbigniew Lekowski. Would you like to book one of these or would you like to hear about Tuesday morning options?
+
+Patient: I was looking for Monday morning, but those are afternoon. Tuesday morning would be better—what times are available?
+
+Agent: On Tuesday, June 30th, there are morning appointments at 9 a.m. and 10:30 a.m. with Dr. Zbignew Lukowski. Would you like to book one of these times?
+
+Patient: The 9 AM on Tuesday works for me. Please book that. If it goes through, can you confirm it’s scheduled?
+
+Agent: Your appointment is confirmed for Tuesday, June 30th at 9 a.m. with Dr. Zbigniew Lekowski. Please bring your photo ID, insurance card, and a list of current medications. Let me know if you need anything else.
+
+Patient: Great, thanks for confirming it’s scheduled. I’m all set.
+
