@@ -43,6 +43,8 @@ ngrok http 8000
 
 Use the module form below if your machine has another `pgai-bot` command installed elsewhere. It avoids command-name collisions with older local projects.
 
+If you prefer a shorter command flow, a `Makefile` is included. The key entrypoint is `make full`, which runs the suite, fetches recordings, and analyzes transcripts after your local server and ngrok tunnel are already running.
+
 Start the webhook and media bridge:
 
 ```bash
@@ -81,6 +83,17 @@ To list built-in scenarios:
 
 ```bash
 python3 -m pgai_voice_bot.cli list-scenarios
+```
+
+Equivalent `make` commands:
+
+```bash
+make serve
+make call SCENARIO=appointment_basic
+make suite
+make fetch
+make analyze
+make full
 ```
 
 ## End-to-End Flow
