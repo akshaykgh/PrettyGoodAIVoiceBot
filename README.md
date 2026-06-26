@@ -21,6 +21,16 @@ Automated Python voice bot for the Pretty Good AI engineering challenge. It call
 - `src/pgai_voice_bot/artifacts.py`: artifact directory, transcript writing, and JSONL logging helpers.
 - `docs/architecture.md`: architecture and design rationale.
 
+## Where to Find Submission Artifacts
+
+- Architecture document: `docs/architecture.md`
+- Source code: `src/pgai_voice_bot/`
+- Transcripts: `artifacts/transcripts/`
+- Audio recordings: `artifacts/recordings/`
+- Bug report: `artifacts/reports/bug_report.md`
+- Raw event logs: `artifacts/events/`
+- Call index: `artifacts/calls.jsonl`
+
 ## Setup
 
 1. Create and activate a Python 3.11+ virtual environment.
