@@ -43,7 +43,7 @@ ngrok http 8000
 
 Use the module form below if your machine has another `pgai-bot` command installed elsewhere. It avoids command-name collisions with older local projects.
 
-If you prefer a shorter command flow, a `Makefile` is included. The key entrypoint is `make full`, which runs the suite, fetches recordings, and analyzes transcripts after your local server and ngrok tunnel are already running.
+If you prefer a shorter command flow, a `Makefile` is included. After your local server and ngrok tunnel are running, `make full` runs the rest of the project flow in one command: it places the full scenario suite, fetches recordings, and analyzes transcripts to generate the final bug report.
 
 Start the webhook and media bridge:
 
